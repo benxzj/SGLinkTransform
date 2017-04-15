@@ -8,11 +8,11 @@ Transform complex Shotgun urls with entity detail anchors into direct links to d
 ## Page Types
 There are multiple types of URLs in Shotgun and this tool helps with a few of them, namely:
 - Page URLs:
-    - https://site.shotgunstudio.com/page/4558
+    - https://somesite.shotgunstudio.com/page/4558
 - Page URLs with entity detail anchors:
-    - https://patrick.shotgunstudio.com/page/4558#Shot_1169_test
+    - https://somesite.shotgunstudio.com/page/4558#Shot_1169_test
 - Detail page URLs:
-    - https://patrick.shotgunstudio.com/detail/Shot/1169
+    - https://somesite.shotgunstudio.com/detail/Shot/1169
 
 The first type of URL, the "page URL", shows a standard (possibly user created) page with entity record information.
 
