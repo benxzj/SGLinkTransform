@@ -2,8 +2,8 @@
 Transform complex Shotgun urls with entity detail anchors into direct links to detail pages
 
 ## Usage:
-`sg transform` - will transform a url in the clipboard from an anchored page into a direct detail page link.
-`sg transform` + `CMD` key - same as above, but will operate on the open tab of a browser in the foreground for Chrome, Safari, and probably Firefox (it's hacky)
+- `sg transform` - will transform a url in the clipboard from an anchored page into a direct detail page link.
+- `sg transform` + `CMD` key - same as above, but will operate on the open tab of a browser in the foreground for Chrome, Safari, and probably Firefox (it's hacky)
 
 ## Page Types
 There are multiple types of URLs in Shotgun and this tool helps with a few of them, namely:
